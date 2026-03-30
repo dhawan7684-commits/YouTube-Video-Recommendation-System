@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Optional: ignore if the CSV is very large or sensitive)
+# youtube.csv
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
