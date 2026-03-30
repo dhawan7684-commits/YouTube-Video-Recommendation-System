@@ -15,7 +15,7 @@ This project solves the "cold start" problem in recommendations by using **Conte
 ---
 
 ## 📊 Dataset
-The dataset used in this project was sourced from **Kaggle**: [YouTube Analytics Data](https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data).
+The dataset used in this project was sourced from **Kaggle**: [YouTube Analytics Data](https://www.kaggle.com/datasets/rajatrc1705/youtube-videos-dataset).
 - **Format:** CSV
 - **Key Features Used:** `title`, `description`, `category`, and `link`.
 - **Content:** Metadata covering various niches including Travel, History, and Science.
